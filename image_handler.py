@@ -301,3 +301,4 @@ def get_question_images(soru: Dict) -> Dict[str, str]:
         images["cozum"] = soru["cozum_resmi"]
     
     return images
+    
